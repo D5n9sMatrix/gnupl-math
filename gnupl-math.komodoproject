@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="87c91191-24a4-4052-b8c7-4696f4a296a4" kpf_version="5" name="gnupl-math.komodoproject">
+<preference-set idref="87c91191-24a4-4052-b8c7-4696f4a296a4" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+  <string id="userEnvironmentStartupOverride">MANPATH=/home/denis/.cache/activestate/4f5a4037/man
+PATH=/home/denis/.cache/activestate/4f5a4037/exec
+PKG_CONFIG_PATH=/home/denis/.cache/activestate/4f5a4037/usr/lib/pkgconfig
+</string>
+</preference-set>
+</project>

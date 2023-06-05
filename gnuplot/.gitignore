@@ -1,0 +1,14 @@
+/.cask
+*.elc
+*.log
+*.aux
+*.pdf
+*.dvi
+*~
+/#*#
+*/#*#
+/hacks.el
+.#*
+/info-look.el
+/gpelcard.ps
+gnuplot-mode-*.tar.gz
